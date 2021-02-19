@@ -1,0 +1,75 @@
+installed node modules - npm install
+installed webpack - npx webpack --config webpack.config.js
+npm- build to make sure your app updates
+init setup is complete
+
+## Create A plan for the mini app
+- front-end
+  - React
+- back-end
+  - Express
+- database
+  - MongoDB or MySQL ?
+
+## Mini-App Theme
+ - Research Api's
+ - Trefle api
+ - search and save plant information
+
+ First phase -> hard code
+ - set up a search bar
+  * search bar to make queries to the api -> log clicks to browser console first
+ - set up a list view
+  * list to display queries
+ - set up an item view
+  * item to display picture and name of item as a div
+
+ Second Phase -> add styling to containers
+ - create the skeleton for UI
+
+ Third Phase -> add dynamic info
+ - list view will be dynamic -> search or saved
+ - item view will be clickable and display info on click
+ - add items to saved
+
+ Fourth Phase -> add persistent storage - create and read capability
+ - saved items tab to manage list view
+  * store all saved items in database
+  * Create, Read, Updata, Delete Complete
+
+ Fifth Phase -> add styling to item views
+ - make styling for each dynamic item
+ - save final touches for later
+
+ Sixth Phase -> add api functionality by query
+ - Get request for Api functionality
+ - Item Title Click functionality
+ - item cursor on hover img and title
+
+ Final Phase -> One component at a time -> perhaps refactor and make more smaller components
+
+fix scroll in mainListItem- shouldn't have the title scroll
+
+Add cast, and a view for when someone clicks an actor to search for similar movies
+with that actor. Visualize the component necessary to run that
+
+Make stars into their own component if possible
+Add because you liked columns
+Find out what to do with the drop down bar -> Think about that
+
+Make this a capstone work in progress
+- Options
+  - Plan the grand scheme - Refactor Code
+  - Refactor/ Consoliate components
+  - Add components
+    - Cast List
+    - Review Display
+    - Authentication
+    - User component
+      - Movie Lists
+      - Add Lists
+      - Add Rating
+      - Add Review
+    - Toggle Tv Search
+    - Possible Redux Refactor
+
