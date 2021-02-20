@@ -4,7 +4,7 @@
 
 ## About
 
-* This app uses an The Movie Database (TMDB) API allows users to search, watch trailers, and save their favorite films.
+* This app uses The Movie Database (TMDB) API allows users to search, watch trailers, and save their favorite films.
 * This app is a precursor to my Watchlist repo
 * https://github.com/keaganluttrell/watchlist
 
